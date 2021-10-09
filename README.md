@@ -14,7 +14,7 @@
 - 3)输入反接保护
 - 4)输出短路保护
 ## 🚀 技术支持/更多深度科技
-- 1)[相关技术博客](http://blog.stardust.live)
+- 1)[相关技术博客](https://stardust.live/blog)
 - 2)[技术交流群](https://jq.qq.com/?_wv=1027&amp;k=yrXYcrfz)
 <p align="center">
     <span>技术交流群：星尘嵌入式社区</span>
