@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: C:\Users\ywj\Desktop\电源模块1.0.2\电源模块1.0.1\电源模块-PRJ\PCB2.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=pcb2-roundholes.txt|DrillLayers=gtl,gbl
+LayersSetName=Top_Bot_Slot_Holes|DrillFile=pcb2-slotholes.txt|DrillLayers=gtl,gbl

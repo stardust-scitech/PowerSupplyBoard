@@ -1,0 +1,62 @@
+Altium Designer Pick and Place Locations
+C:\Users\ywj\Desktop\电源模块1.0.2\电源模块1.0.1\电源模块-PRJ\Project Outputs for 电源模块\Pick Place for PCB2.txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       04/10/21
+Time:       22:57
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mm
+
+Designator Layer       Footprint                            Center-X(mm) Center-Y(mm) Rotation 
+""         BottomLayer 焊盘_2P                                56.3118      10.1854      360      
+C1         TopLayer    0603C                                74.2188      27.6860      270      
+C3         TopLayer    CAP-SMD_BD6.3-L6.6-W6.6-FD           75.0316      21.0058      360      
+""         TopLayer    XH2.54-WI-2P                         35.9918      32.1564      180      
+""         TopLayer    HDR-TH_8P-P2.54-V-F-R2-C4-S2.54-1    39.3827      11.4300      180      
+""         TopLayer    SOIC-8_L5.0-W4.0-P1.27-LS6.0-BL      39.8780      26.6954      360      
+""         TopLayer    SOIC-8_L5.0-W4.0-P1.27-LS6.0-BL      66.9036      26.6954      0        
+R6         TopLayer    0603R                                44.6278      27.7114      90       
+R5         TopLayer    0603R                                50.8337      12.4714      270      
+R4         TopLayer    0603R                                47.2186      27.7114      90       
+LED2       TopLayer    LED0603-RD                           50.8684      9.0424       90       
+""         TopLayer    IND-SMD_L7.1-W6.6                    39.4462      18.3134      180      
+F2         TopLayer    F1812                                47.0662      11.3030      270      
+D2         TopLayer    SMA_L4.3-W2.6-LS5.0-RD               31.2420      15.3671      270      
+C12        TopLayer    0603C                                6.9850       16.6370      270      
+C10        TopLayer    0603C                                19.8247      16.6370      270      
+C9         TopLayer    0603C                                49.6570      16.1290      180      
+C8         TopLayer    0603C                                35.9680      25.7842      270      
+C7         TopLayer    CAP-SMD_BD6.3-L6.6-W6.6-FD           49.7586      21.0058      360      
+C6         TopLayer    CAP-SMD_BD6.3-L6.6-W6.6-FD           31.2420      26.1620      90       
+""         TopLayer    GP-T                                 4.0000       36.0000      0        
+""         TopLayer    GP-T                                 76.0000      36.0000      0        
+""         TopLayer    GP-T                                 76.0000      4.0000       0        
+""         TopLayer    GP-T                                 4.0000       4.0000       0        
+C13        TopLayer    0603C                                5.2070       16.6370      270      
+""         TopLayer    KF301-5.0-2P                         24.7142      36.6776      180      
+""         TopLayer    DC-IN-TH_DC-005-20A                  10.5782      29.2580      270      
+C5         TopLayer    0603C                                75.1078      16.1290      180      
+""         TopLayer    AMS1117                              12.5603      19.3548      360      
+S1         TopLayer    钮子开关                                 48.2600      34.2138      360      
+R9         TopLayer    0603R                                57.5664      35.9675      270      
+R8         TopLayer    0603R                                21.9964      16.6116      270      
+R7         TopLayer    0603R                                24.2989      12.4714      270      
+R3         TopLayer    0603R                                77.3684      12.4714      270      
+R2         TopLayer    RES-ADJ-TH_3P-L10.0-W10.0-P2.50-L    67.4008      34.6710      360      
+R1         TopLayer    0603R                                71.6534      27.7114      90       
+Q1         TopLayer    TO-252-2_L6.6-W6.1-P4.57-LS9.9-BR-CW 22.5552      24.2825      270      
+LED4       TopLayer    LED0603-RD                           59.7219      35.8737      90       
+LED3       TopLayer    LED0603-RD                           24.3431      9.0424       90       
+LED1       TopLayer    LED0603-RD                           77.3938      9.0424       90       
+""         TopLayer    IND-SMD_L7.1-W6.6                    65.7860      18.3134      180      
+""         TopLayer    HDR-TH_8P-P2.54-V-F-R2-C4-S2.54-1    12.9540      11.4300      180      
+""         TopLayer    HDR-TH_8P-P2.54-V-F-R2-C4-S2.54-1    65.8114      11.4300      180      
+F3         TopLayer    F1812                                20.5994      11.3030      270      
+F1         TopLayer    F1812                                73.5330      11.3030      270      
+D1         TopLayer    SMA_L4.3-W2.6-LS5.0-RD               58.1660      15.3671      270      
+C11        TopLayer    0603C                                17.7038      16.6370      270      
+C4         TopLayer    0603C                                63.0174      25.7842      270      
+C2         TopLayer    CAP-SMD_BD6.3-L6.6-W6.6-FD           58.2676      26.1620      90       
