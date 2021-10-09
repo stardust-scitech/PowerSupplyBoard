@@ -4,7 +4,7 @@
 ## 🔧 版本发布
 <span>2021_10_09 V1.0.0 YJ</span>
 ## 📖 样品展示
-- 1)<img alt="电源板样图" width="220" src="https://github.com/stardust-scitech/PowerSupplyBoard/blob/main/Model/PowerSupplyBoard.jpg">
+- 1)<img alt="电源板样图" width="220" style="border-radius:10px" src="https://github.com/stardust-scitech/PowerSupplyBoard/blob/main/Model/PowerSupplyBoard.jpg">
 ## 💻 技术细节
 - 1)输入：6-12V
 - 2)输出：3.3V-500mA 5V-3A ADJ-3A
