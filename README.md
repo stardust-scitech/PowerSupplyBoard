@@ -4,10 +4,15 @@
 ## 🔧 版本发布
 <span>2021_10_09 V1.0.0 YJ</span>
 ## 📖 样品展示
-- 1)<img alt="电源板样图" width="220" style="border-radius:10px" src="https://github.com/stardust-scitech/PowerSupplyBoard/blob/main/Model/PowerSupplyBoard.jpg">
+- 1)<img alt="电源板样图" width="400" style="border-radius:10px" src="https://github.com/stardust-scitech/PowerSupplyBoard/blob/main/Model/PowerSupplyBoard.jpg">
+- 2)<img alt="电源板主视图" width="400" style="border-radius:10px" src="https://github.com/stardust-scitech/PowerSupplyBoard/blob/main/Model/MainView.PNG">
+- 3)<img alt="电源板前视图" width="400" style="border-radius:10px" src="https://github.com/stardust-scitech/PowerSupplyBoard/blob/main/Model/FrontView.PNG">
+- 4)<img alt="电源板后视图" width="400" style="border-radius:10px" src="https://github.com/stardust-scitech/PowerSupplyBoard/blob/main/Model/RearView.PNG">
 ## 💻 技术细节
 - 1)输入：6-12V
 - 2)输出：3.3V-500mA 5V-3A ADJ-3A
+- 3)输入反接保护
+- 4)输出短路保护
 ## 🚀 技术支持/更多深度科技
 - 1)[相关技术博客](http://blog.stardust.live)
 - 2)[技术交流群](https://jq.qq.com/?_wv=1027&amp;k=yrXYcrfz)
