@@ -4,7 +4,7 @@
 ## 🔧 版本发布
 <span>2021_10_09 V1.0.0 YJ</span>
 ## 📖 样品展示
-- 1)<img alt="电源板样图" width="400" style="border-radius:10px" src="https://github.com/stardust-scitech/PowerSupplyBoard/blob/main/Model/PowerSupplyBoard.jpg">
+- 1)<img alt="电源板样图" width="400" style="border-radius:50%;" src="https://github.com/stardust-scitech/PowerSupplyBoard/blob/main/Model/PowerSupplyBoard.jpg">
 - 2)<img alt="电源板主视图" width="400" style="border-radius:10px" src="https://github.com/stardust-scitech/PowerSupplyBoard/blob/main/Model/MainView.PNG">
 - 3)<img alt="电源板前视图" width="400" style="border-radius:10px" src="https://github.com/stardust-scitech/PowerSupplyBoard/blob/main/Model/FrontView.png">
 - 4)<img alt="电源板后视图" width="400" style="border-radius:10px" src="https://github.com/stardust-scitech/PowerSupplyBoard/blob/main/Model/RearView.png">
