@@ -5,9 +5,9 @@
 <span>2021_10_09 V1.0.0 YJ</span>
 ## 📖 样品展示
 - 1)<img alt="电源板样图" width="400" src="Model/PowerSupplyBoard.jpg">
-- 2)<img alt="电源板主视图" width="400" src="Model/PowerSupplyBoard/MainView.PNG">
-- 3)<img alt="电源板前视图" width="400" src="Model/PowerSupplyBoard/FrontView.png">
-- 4)<img alt="电源板后视图" width="400" src="Model/PowerSupplyBoard/RearView.png">
+- 2)<img alt="电源板主视图" width="400" src="Model/MainView.PNG">
+- 3)<img alt="电源板前视图" width="400" src="Model/FrontView.png">
+- 4)<img alt="电源板后视图" width="400" src="Model/RearView.png">
 ## 💻 技术细节
 - 1)输入：6-12V
 - 2)输出：3.3V-500mA 5V-3A ADJ-3A
